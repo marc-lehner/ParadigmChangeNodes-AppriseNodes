@@ -1,7 +1,7 @@
 name: apprise
 group_id: de.paradigmchange
 author: PartTimeDataScientist
-env_yml_path: environment.yml
+pixi_toml_path: pixi.toml
 extension_module: apprise_nodes
 description: Apprise Nodes
 long_description: This extension allows notifications through Apprise
